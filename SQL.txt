@@ -1,0 +1,7 @@
+RDBMS =>Relational Database Management System ilişkisel veri tabanı yönetim sistemidir günümüzde hala en çok kullanılan veri tabanı yönetim sistemidir.Örnek olarak
+Oracle,SqlServer,MySql,Postgresql,acces sıklıkla kullanılan veri tabanı yönetim sistemidir.Bunların tamamının kabul ettigi standart var oda ANSI SQL diye geçer bu
+şu anlama geliyor bu standarttaki butun kodlar yukarıdakı veri tabanı yönetim sistemlerinde kullanılır.Mesela oracle ANSI SQL + PlSql ile geliştirdirdigi ortam.T-sql
+ANSI SQL + SqlServer dır.
+NoSql=>Yine günümüzde oldukça kullanılan veri tabanı yönetim sistemidir.Günümüzde MongoDb,Firebase gibi yapılarla çıkan veri tabanı yönetim sistemi gibidir.Açılımı
+NotOnly sql demektir sql yok anlamında degildir sql + var demektir.İlişkisellik var ama çok sert degil RDBMS gibi.Loglama alt yapılarında NoSql yapılarını kullanırız.
+Normalizasyon => Datayı modelleme teknigidir genellikle amaç veri kaçaklarını engellemektir.
